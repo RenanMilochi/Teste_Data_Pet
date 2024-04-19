@@ -1,0 +1,1 @@
+CREATE TABLE `formulario_teste_renan`.`data_pet` (`NOME` VARCHAR(45) NOT NULL , `espécies` VARCHAR(45) NOT NULL , `sexo` VARCHAR(10) NOT NULL , `porte` VARCHAR(15) NOT NULL , `UF` VARCHAR(2) NOT NULL , `cidade` VARCHAR(15), `historia` VARCHAR(200) NOT NULL , `publicado_por_usuario` VARCHAR(45) NOT NULL, id int (50) AUTO_INCREMENT NOT NULL PRIMARY KEY)
